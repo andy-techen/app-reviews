@@ -1,6 +1,5 @@
 import string
 import pandas as pd
-import numpy as np
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from google_play_scraper import Sort, reviews as reviews_par
